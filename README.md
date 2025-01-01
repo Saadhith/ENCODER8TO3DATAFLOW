@@ -56,6 +56,7 @@ Developed by:Aadhith.S RegisterNumber:24006247
 
 
 **RESULTS**
+Thus Encoder 8 to 3 in Dataflow Modelling is implemented using verilog and their functionality is validated using their functional tables
 
 
 
